@@ -12,10 +12,10 @@
 
 ## 📊 Github Stats
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Arthurjsilva">
-<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=Arthurjsilva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurjsilva&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=Arthurjsilva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurjsilva&layout=compact&langs_count=7&theme=midnight-purple"/>
     
     
   </a>
