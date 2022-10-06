@@ -2,11 +2,13 @@
 <div style="display: inline_block"> 
 
 </div>
+<p><strong>Computer Science Student</strong> focused on learning and develop software.</p>  
 
-- 🔥 Computer Science Student focused on learning and develop software
-- 🌎 I'm from Recife, PE - Brasil
-- 💻 Software Developer
-- 👨🏽‍💻 Computer Science | Uninassau
+
+
+- 🌎 I'm from Recife, PE - Brazil
+- 💻 Software Developer 
+- 👨🏽‍💻  Computer Science | Uninassau 
 
 
 
@@ -14,7 +16,7 @@
 
 <div align="left">
   <a href="https://github.com/Arthurjsilva">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurjsilva&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurjsilva&layout=compact&langs_count=7&theme=midnight-purple"/>
     
     
   </a>
