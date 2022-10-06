@@ -17,13 +17,20 @@
 <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=Arthurjsilva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurjsilva&layout=compact&langs_count=7&theme=midnight-purple"/>
     
+ 
     
   </a>
+  
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 
 <div align="left">
+ 
   <a href="https://github.com/Arthurjsilva">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="52" alt="html5 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="52" alt="css3 logo"  />
