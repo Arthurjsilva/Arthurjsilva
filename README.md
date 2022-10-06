@@ -30,9 +30,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="52" alt="vscode logo"  />
   
  
-        
-<!--   🐍snake   -->
- ##  🗓️ Contributions in the last year 
- 
-<p align="center"> <img src="https://github.com/Arthurjsilva/Arthurjsilva/blob/output/github-contribution-grid-snake.svg"></p>
- 
