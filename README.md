@@ -36,7 +36,7 @@
   
  ##
  <a href="https://www.instagram.com/arthurjsilva_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" target="_blank" />
  </a>
 </div>
  
