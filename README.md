@@ -1,8 +1,6 @@
-## Hi, I'm Arthur José 👊
-
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=911DF7&background=FFFFFF00&width=435&lines=👋Hi!+I'm+Arthur.;Come+to+know+a+little+about+me!)](https://git.io/typing-svg)
 </div>
 <p><strong>Computer Science Student</strong> focused on learning and develop software.</p>  
-
 
 - 💻 Software Developer 
 - 👨🏽‍💻  Computer Science | Uninassau 
